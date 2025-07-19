@@ -16,9 +16,9 @@ A lightweight Windows utility that captures system screenshots at regular interv
   * **Line 49**: Update the URL where screenshots will be sent. Example:
 
     ```csharp
-    string uploadUrl = "http://your-server-address/index.php";
+    string serverUrl = "http://your-server-address/index.php";
     ```
-  * Optional: Adjust the interval time in seconds (default: 300 seconds = 5 minutes).
+  * Optional: Line number 49, Adjust the interval time in seconds (default: 300 seconds = 5 minutes).
 
 ---
 
@@ -63,4 +63,7 @@ Now your screenshot utility will automatically run at boot, even if no user logs
 
 * Requires **.NET Framework** (usually pre-installed on Windows systems).
 * Ensure your server can accept and process HTTP POST requests with image data.
+
+Do you need professional support to setup solution or more modifications and add-on features?
+Contact me by email contact@bitbulltech.com or whatsapp +91 98725 47685
 
