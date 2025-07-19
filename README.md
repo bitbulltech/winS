@@ -59,6 +59,10 @@ Now your screenshot utility will automatically run at boot, even if no user logs
 
 ---
 
+
+index.php is the sample php file to write screenshot datewise in "upload" directory.
+
+
 ## Notes
 
 * Requires **.NET Framework** (usually pre-installed on Windows systems).
