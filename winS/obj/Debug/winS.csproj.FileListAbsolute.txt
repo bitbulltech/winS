@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\obj\Debug\winS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\bin\Debug\winS.exe
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\bin\Debug\winS.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\bin\Debug\System.Drawing.Common.dll
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\bin\Debug\System.Net.Http.dll
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\obj\Debug\winS.exe
+C:\Users\hp\Documents\SharpDevelop Projects\winS\winS\obj\Debug\winS.pdb
